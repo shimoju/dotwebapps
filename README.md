@@ -1,6 +1,6 @@
 # dotwebapps
 
-.web/apps
+Web server settings for serving your apps locally in a moment
 
 ## Requirements
 
